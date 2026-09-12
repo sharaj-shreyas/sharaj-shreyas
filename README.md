@@ -3,8 +3,11 @@
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="sharaj-shreyas's GitHub profile" src="dark_mode.svg" />
 </picture>
-## ❯ About me
+
 ---
+
+## ❯ About me
+
 
 ```typescript
 const sharajshreyas = {
