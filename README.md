@@ -4,6 +4,7 @@
   <img alt="sharaj-shreyas's GitHub profile" src="dark_mode.svg" />
 </picture>
 ## ❯ About me
+---
 
 ```typescript
 const sharajshreyas = {
