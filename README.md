@@ -1,8 +1,8 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="sharaj-shreyas's GitHub profile" src="dark_mode.svg" />
-</picture>
+<div align="center">
+  <img src="https://gh.crafter.run/sharaj-shreyas?theme=dark&cols=140" alt="Manvith911@github" width="100%" />
+</div>
+
+<br/>
 
 ---
 
