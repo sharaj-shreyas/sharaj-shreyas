@@ -5,8 +5,8 @@
 </picture>
 ## ❯ About me
 
-
-const ssharaj = {
+```typescript
+const sharajshreyas = {
   name      : "Sharaj Shreyas",
   role      : ["IITGN Civil 30", "Maker by Passsion"],
   location  : "India 🇮🇳",
@@ -15,21 +15,6 @@ const ssharaj = {
   openToWork: true, // slide into issues/PORs anytime 👀
 };
 
-export default ssharaj;
+export default sharajshreyas;
+```
 
-
----
-<!--
-**sharaj-shreyas/sharaj-shreyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
